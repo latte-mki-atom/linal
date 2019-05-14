@@ -8,8 +8,5 @@ using namespace std;
 
 int main()
 {
-    Matrix3D a = Matrix3D(1, 0, 0, 0, 1, 0, 0, 0, 1);
-    double k;
-    k = a.det();
-    cout << k << endl;
+    /*random test code*/
 }
